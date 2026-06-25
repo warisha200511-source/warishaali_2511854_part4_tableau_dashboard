@@ -39,8 +39,11 @@ Return reason analysis by product, region, and segment
 Shipping performance analysis to check whether delivery issues are linked to higher returns
 Discount vs profit analysis to see whether low-profit categories are affected by aggressive discounting
 Top loss-making products or sub-categories to identify where profitability is leaking
-Customer-level repeat purchase analysis to understand whether high-return customers are still valuable in the long term.
+Customer-level repeat purchase analysis to understand whether high-return customers are still valuable in the long term
 
 Conclusion
 
 Overall, the dashboard shows that the business has a solid sales base and multiple areas of strength, but profitability quality is not uniform across categories, regions, and customer segments. Returns are the most important signal of risk in this view, because they can reduce the true value of sales. Leadership should use this dashboard not only to track revenue performance, but also to improve category decisions, reduce return-related losses, and focus on the most profitable markets and customer groups
+   
+
+
